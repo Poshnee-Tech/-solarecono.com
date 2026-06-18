@@ -54,7 +54,7 @@ const SERVICES = [
     desc: 'Going solar should never be a financial burden. We offer $0 down solar loans, lease programs, and expert guidance on federal and state incentives to make clean energy accessible regardless of your budget.',
     features: ['$0 down financing options', 'Federal 30% ITC guidance', 'State rebate navigation', 'Flexible loan structures'],
     color: '#0891B2',
-    img: 'https://images.unsplash.com/photo-1584993616601-86892c0b9c80?auto=format&fit=crop&w=600&q=80',
+    img: 'https://images.unsplash.com/photo-1548337138-e87d889cc369?auto=format&fit=crop&w=600&q=80',
   },
 ]
 
